@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pietre" size="0.100000 0.070000" />
+    <ImageTarget name="plic24spate" size="0.065000 0.086667" />
+    <ImageTarget name="plic24" size="0.065000 0.086667" />
+    <ImageTarget name="plic6" size="0.065000 0.086667" />
+  </Tracking>
+</QCARConfig>
